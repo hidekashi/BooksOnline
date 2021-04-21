@@ -1,0 +1,122 @@
+
+.w3ls_logo_products_left1 ul li a {
+    font-size: 25px;
+}
+
+.online {
+    font-size: 35px;
+    color: #84c639;
+    margin-top: -45px;
+    margin-left: 42px;
+    z-index: 99999;
+}
+
+.agile_top_brand_left_grid1 .snipcart-item a img {
+    width: 100%;
+}
+
+.top-brands .container {
+    /* width: 1700px; */
+}
+
+.w3ls_logo_products_left1 ul li i {
+    font-size: 25px;
+}
+
+.sidebar-title {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.banner_bottom {
+    margin-top: -385px;
+}
+
+.custom-breadcrumb li {
+    font-size: 18px;
+}
+
+.agile_about_grid_left ul li {
+    margin-top: 30px;
+}
+
+.wthree_banner_bottom_left_grid img {
+    height: 300px;
+    width: 100%;
+}
+
+.creditly-wrapper .custom-control {
+    padding: unset;
+    padding-left: 5px;
+    width: 100%;
+}
+
+.creditly-wrapper.radio-custom {
+    display: block;
+}
+
+.custom-product {
+    margin-bottom: 15px;
+}
+
+.custom-h3 {
+    margin-top: -15px;
+}
+
+.btnEmail {
+    outline: none;
+    padding: 10px 0;
+    background: #fff;
+    border: 1px solid #fff;
+    font-size: 14px;
+    color: #FA1818;
+    width: 25.7%;
+    text-transform: uppercase;
+}
+
+.btnEmail:hover {
+    background:#84C639;
+    border: 1px solid #84C639;
+    color:#fff;
+}
+
+
+/**/
+
+.p-author, .p-publisher {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.p-author span, .p-publisher span {
+	font-size: 18px;
+	font-weight: bold;
+	font-style: italic;
+	color: #f15f14;
+}
+
+.fset {
+	display: inline-block;
+}
+
+.form-addtocart {
+	display: flex;
+	list-style-type: none;
+}
+
+.form-addtocart li {
+	margin-left: 20px;
+}
+
+.form-addtocart:first-child {
+	margin-left: -20px;
+}
+
+.form-addtocart li .button {
+	width: 130px;
+}
+
+.w3agile_description p:last-child {
+	text-indent: 10px;
+}
